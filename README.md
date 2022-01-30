@@ -1,5 +1,5 @@
 ## Hello There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28px">
-I'm Arman Ali, a passionate self-taught Linux Server Administrator. I have more than 5 years of working experience as freelancer. I am a tech enthusiast & an open-source advocate. Find out more about me & feel free to connect with me here:
+I'm Arman Ali, a passionate self-taught Linux Server Administrator. I have more than 5 years of working experience as a freelancer. I am a tech enthusiast & an open-source advocate. Find out more about me & feel free to connect with me here:
 
 [![Portfoilio Badge](https://img.shields.io/badge/Arman%20Ali-My%20Portfolio-brightgreen)](https://www.armanism.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-armanism24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armanism24/)](https://www.linkedin.com/in/armanism24/)
